@@ -1,0 +1,30 @@
+Array
+(
+    [customerID] => C005
+    [customerFName] => MARR
+    [customerLName] => ADAD
+    [customerSex] => M
+    [customerDOB] => 1988-06-11
+    [customerEmail] => egory@gmail.com
+    [customerPhone] => 332321313
+)
+Array
+(
+    [customerID] => C010
+    [customerFName] => MARR
+    [customerLName] => ADAD
+    [customerSex] => M
+    [customerDOB] => 1988-06-11
+    [customerEmail] => egory@gmail.com
+    [customerPhone] => 332321313
+)
+Array
+(
+    [customerID] => C010
+    [customerFName] => DA
+    [customerLName] => DAAS
+    [customerSex] => M
+    [customerDOB] => 1988-06-11
+    [customerEmail] => gory@gmail.com
+    [customerPhone] => 013201030
+)

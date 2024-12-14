@@ -1,0 +1,23 @@
+{"packageID":"PKG5","packageName":"Bangkok History","destinationID":"D005","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"9","itineraryID":"I005","packageAccommodation":false,"paymentID":"P005","packagePrice":7000000}
+{"packageID":"PKG5","packageName":"Bangkok History","destinationID":"D005","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"9","itineraryID":"I005","packageAccommodation":false,"paymentID":"P005","packagePrice":7000000}
+{"packageID":"PKG5","packageName":"Bangkok History","destinationID":"D005","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"19","itineraryID":"I005","packageAccommodation":false,"paymentID":"P005","packagePrice":7000000}
+{"packageID":"PKG5","packageName":"Bangkok History","destinationID":"D005","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"19","itineraryID":"I005","packageAccommodation":true,"paymentID":"P005","packagePrice":7000000}
+{"packageID":"PKG5","packageName":"Bangkok","destinationID":"D004","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"9","itineraryID":"I004","packageAccommodation":true,"paymentID":"P004","packagePrice":8000000}
+{"packageID":"PKG6","packageName":"Bangkok","destinationID":"D004","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"9","itineraryID":"I004","packageAccommodation":true,"paymentID":"P004","packagePrice":8000000}
+{"packageID":"PKG6","packageName":"Bangkok","destinationID":"D004","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"9","itineraryID":"I004","packageAccommodation":true,"paymentID":"P004","packagePrice":8000000}
+{"packageID":"PKG6","packageName":"Bangkok","destinationID":"D004","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"8","itineraryID":"I004","packageAccommodation":true,"paymentID":"P004","packagePrice":8000000}
+{"packageID":"PKG6","packageName":"Bangkok","destinationID":"D004","packageTransport":"Plane","packageSDate":"2023-03-20","packageEDate":"2023-03-28","packageTDays":"8","itineraryID":"I004","packageAccommodation":true,"paymentID":"P004","packagePrice":8000000}
+     {
+         "packageID": "001",
+         "packageName": "Beach Getaway",
+         "destinationID": "0010",
+         "packageTransport": "Bus",
+         "packageSDate": "2024-01-01",
+         "packageEDate": "2024-01-07",
+         "packageTDays": 7,
+         "itineraryID": "IT00100",
+         "packageAccommodation": true,
+         "paymentID": "PAY0010",
+         "packagePrice": 500
+     }
+

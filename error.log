@@ -1,0 +1,337 @@
+[14-Dec-2024 14:55:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php:29
+Stack trace:
+#0 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php on line 29
+[14-Dec-2024 14:56:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php:29
+Stack trace:
+#0 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php on line 29
+[14-Dec-2024 14:59:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php:29
+Stack trace:
+#0 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/customer.php on line 29
+[14-Dec-2024 15:06:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #8 cannot be passed by reference in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:26
+Stack trace:
+#0 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 26
+[14-Dec-2024 15:08:44 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:08:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:09:48 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:09:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:11:11 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssssiissss', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:11:12 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssssiissss', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:11:13 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssssiissss', 'C020', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:12:27 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:12:28 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:12:29 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:12:29 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:13:08 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssi', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:14:11 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:14:20 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:14:21 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C001', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:15:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C011', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:15:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C011', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:16:15 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:28
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(28): mysqli_stmt->bind_param('ssssssiissss', 'C011', 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890, 'John', 'Doe', 'M', '1985-05-15', 'john.doe@exampl...', 1234567890)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 28
+[14-Dec-2024 15:18:00 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'customerPhone' at row 1 in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:59
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 59
+[14-Dec-2024 15:18:06 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'customerPhone' at row 1 in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:59
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 59
+[14-Dec-2024 15:18:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'customerPhone' at row 1 in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php:59
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_customer.php on line 59
+[14-Dec-2024 15:21:21 Europe/Berlin] Out of range value for column 'customerPhone' at row 1
+[14-Dec-2024 15:47:42 Europe/Berlin] Unknown column 'day' in 'field list'
+[14-Dec-2024 15:47:55 Europe/Berlin] Unknown column 'day' in 'field list'
+[14-Dec-2024 15:50:53 Europe/Berlin] Missing or empty field: itineraryDay
+[14-Dec-2024 15:51:36 Europe/Berlin] Invalid JSON input
+[14-Dec-2024 16:26:47 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisssssss', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', true, 'P005', 70000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', true, 'P005', 70000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:26:54 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisssssss', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', true, 'P005', 70000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', true, 'P005', 70000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:28:58 Europe/Berlin] Invalid JSON input
+[14-Dec-2024 16:29:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisssssss', '001', 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500, 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:33:48 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisiissss...', '001', 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500, 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:33:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisiissss...', '001', 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500, 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:34:33 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisiissss...', '00100', 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500, 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', true, 'PAY001', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:35:33 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', 1, 'PAY001', 500, 'Beach Getaway', '001', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT001', 1, 'PAY001', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 16:35:56 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 16:35:57 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 16:36:57 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 16:37:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 16:41:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:64
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(64): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 64
+[14-Dec-2024 16:41:54 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:64
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(64): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 64
+[14-Dec-2024 16:41:55 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:64
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(64): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT0010', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 64
+[14-Dec-2024 16:42:16 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:64
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(64): mysqli_stmt->bind_param('sssssssiissssss...', '00100', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT00100', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT00100', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 64
+[14-Dec-2024 16:45:11 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 16:45:21 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 16:45:38 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 16:45:52 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '19', 'I005', 1, 'P005', 7000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '19', 'I005', 1, 'P005', 7000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:48:45 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG5', 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000, 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:48:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG6', 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000, 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:49:00 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG6', 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000, 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '9', 'I004', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:49:28 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG6', 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '8', 'I004', 1, 'P004', 8000000, 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '8', 'I004', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:50:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', 'PKG6', 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '8', 'I004', 1, 'P004', 8000000, 'Bangkok', 'D004', 'Plane', '2023-03-20', '2023-03-28', '8', 'I004', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:51:44 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:85
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(85): mysqli_stmt->bind_param('sssssssiissssss...', '001', 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT00100', 1, 'PAY0010', 500, 'Beach Getaway', '0010', 'Bus', '2024-01-01', '2024-01-07', 7, 'IT00100', 1, 'PAY0010', 500)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 85
+[14-Dec-2024 16:53:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:55:13 Europe/Berlin] Invalid JSON input
+[14-Dec-2024 16:57:02 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 16:57:57 Europe/Berlin] Invalid JSON input
+[14-Dec-2024 16:58:54 Europe/Berlin] Invalid JSON input
+[14-Dec-2024 16:58:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:01:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P004', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:07:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`travelagencydbfinal`.`package`, CONSTRAINT `package_ibfk_3` FOREIGN KEY (`paymentID`) REFERENCES `Payment` (`paymentID`)) in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_payment.php:22
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_payment.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_payment.php on line 22
+[14-Dec-2024 17:07:53 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000, 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 70000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:10:34 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000, 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:11:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000, 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:12:25 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P006', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P006', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:14:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000, 'Bangkok', 'D005', 'Plane', '2023-02-05', '2023-02-12', '8', 'I004', 1, 'P006', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:20:52 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 17:21:46 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 17:21:50 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 17:21:56 Europe/Berlin] Missing or empty field: packageAccommodation
+[14-Dec-2024 17:22:21 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P006', 8000000, 'Bangkok Tour', 'D005', 'Plane', '2023-03-20', '2023-03-28', 8, 'I005', 1, 'P006', 8000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:27:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(63): mysqli_stmt->bind_param('ssssssiisss', 'PKG6', 'Bangkok', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 7000000, 'Bangkok', 'D005', 'Plane', '2023-03-20', '2023-03-28', '9', 'I005', 1, 'P005', 7000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 63
+[14-Dec-2024 17:31:23 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('ssssssiissss', 'PKG1', 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000, 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 17:31:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('ssssssiissss', 'PKG1', 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000, 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 17:32:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('ssssssiissss', 'PKG1', 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000, 'Yogjakarta Cult...', 'D001', 'Plane', '2023-12-01', '2023-12-07', '7', 'I001', '1', 1, 'P001', 5000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 17:33:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`travelagencydbfinal`.`booking`, CONSTRAINT `booking_ibfk_3` FOREIGN KEY (`packageID`) REFERENCES `Package` (`packageID`)) in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php:22
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php on line 22
+[14-Dec-2024 17:33:53 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php:65
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php(65): mysqli_stmt->bind_param('ssssssiissss', 'PKG5', 'Bangkok History', 'D005', 'Planes', '2023-03-20', '2023-03-28', '9', 'I005', '1', 1, 'P005', 7000000, 'Bangkok History', 'D005', 'Planes', '2023-03-20', '2023-03-28', '9', 'I005', '1', 1, 'P005', 7000000)
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/add_package.php on line 65
+[14-Dec-2024 18:14:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`travelagencydbfinal`.`booking`, CONSTRAINT `booking_ibfk_3` FOREIGN KEY (`packageID`) REFERENCES `Package` (`packageID`)) in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php:22
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php(22): mysqli_stmt->execute()
+#1 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/travelmanagement/delete_package.php on line 22
