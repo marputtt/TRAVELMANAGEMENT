@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Dec 14, 2024 at 06:23 PM
+-- Generation Time: Dec 15, 2024 at 08:58 AM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -70,7 +70,9 @@ INSERT INTO `Booking` (`bookingID`, `agentID`, `customerID`, `packageID`, `booke
 ('B002', 'A002', 'C002', 'PKG2', '2023-01-10'),
 ('B003', 'A003', 'C003', 'PKG3', '2023-01-15'),
 ('B004', 'A004', 'C004', 'PKG4', '2023-02-05'),
-('B005', 'A005', 'C005', 'PKG5', '2023-03-20');
+('B005', 'A005', 'C005', 'PKG5', '2023-03-20'),
+('B006', 'A001', 'C001', 'PKG1', '2024-12-19'),
+('B007', 'A001', 'C011', 'PKG1', '2024-12-29');
 
 -- --------------------------------------------------------
 
@@ -167,7 +169,7 @@ CREATE TABLE `Package` (
   `packageTDays` int(11) NOT NULL,
   `itineraryID` varchar(4) DEFAULT NULL,
   `itineraryDay` int(11) DEFAULT NULL,
-  `packageAccommodation` varchar(20) NOT NULL,
+  `packageAccommodation` varchar(1) NOT NULL,
   `paymentID` varchar(4) DEFAULT NULL,
   `packagePrice` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
@@ -177,11 +179,12 @@ CREATE TABLE `Package` (
 --
 
 INSERT INTO `Package` (`packageID`, `packageName`, `destinationID`, `packageTransport`, `packageSDate`, `packageEDate`, `packageTDays`, `itineraryID`, `itineraryDay`, `packageAccommodation`, `paymentID`, `packagePrice`) VALUES
-('PKG1', 'Yogjakarta Culture', 'D001', 'Plane', '2023-12-01', '2023-12-07', 7, 'I001', 1, 'iya', 'P001', 5000000),
-('PKG2', 'Kuala Lumpur Experience', 'D002', 'Plane', '2023-01-10', '2023-01-17', 8, 'I002', 1, 'iya', 'P002', 6000000),
-('PKG3', 'Bali Adventure', 'D003', 'Plane', '2023-01-15', '2023-01-21', 7, 'I003', 1, 'iya', 'P003', 7500000),
-('PKG4', 'Hanoi Highlights', 'D004', 'Plane', '2023-02-05', '2023-02-12', 8, 'I004', 1, 'iya', 'P004', 8000000),
-('PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', 9, 'I005', 1, 'iya', 'P005', 7000000);
+('PKG1', 'Yogjakarta Culture', 'D001', 'Plane', '2023-12-01', '2023-12-07', 7, 'I001', 1, 'T', 'P001', 5000000),
+('PKG2', 'Kuala Lumpur Experience', 'D002', 'Plane', '2023-01-10', '2023-01-17', 8, 'I002', 1, 'T', 'P002', 6000000),
+('PKG3', 'Bali Adventure', 'D003', 'Plane', '2023-01-15', '2023-01-21', 7, 'I003', 1, 'T', 'P003', 7500000),
+('PKG4', 'Hanoi Highlights', 'D004', 'Plane', '2023-02-05', '2023-02-12', 8, 'I004', 1, 'T', 'P004', 8000000),
+('PKG5', 'Bangkok History', 'D005', 'Plane', '2023-03-20', '2023-03-28', 9, 'I005', 1, 'T', 'P005', 7000000),
+('PKG8', 'adventure', 'D005', 'bus', '2023-03-20', '2023-03-28', 9, 'I005', 1, 'T', 'P005', 7000000);
 
 -- --------------------------------------------------------
 
