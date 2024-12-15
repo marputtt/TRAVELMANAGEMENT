@@ -106,6 +106,9 @@ $conn->close();
     <title>Dashboard</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="/Applications/XAMPP/xamppfiles/htdocs/TRAVELMANAGEMENT/tvm.css">
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -123,15 +126,19 @@ $conn->close();
         }
         .sidebar h2 {
             color: #fff;
+             FONT-SIZE: xx-large;
+
         }
         .sidebar a {
             color: #fff;
-            text-decoration: none;
-            display: block;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-            transition: background 0.3s;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    transition: background 0.3s;
+    FONT-SIZE: x-large;
+    text-align: center;
         }
         .sidebar a:hover {
             background: #575757;
@@ -165,15 +172,15 @@ $conn->close();
 <body>
 
 <div class="sidebar">
-    <h2>Dashboard</h2>
-    <a href="Dashboard.php">Dashboard</a>
-    <a href="Bookings.php">Bookings</a>
-    <a href="Destination.php">Destination</a>
-    <a href="Agents.php">Agents</a>
-    <a href="Customer.php">Customers</a>
-    <a href="Package.php">Package</a>
-    <a href="Itinerary.php">Itinerary</a>
-    <a href="Payment.php">Payments</a>
+    <h2>Travel maxxing</h2>
+    <a href="Dashboard.php"><i class="fas fa-tachometer-alt"></i> Dashboard</a>
+    <a href="Bookings.php"><i class="fas fa-book"></i> Bookings</a>
+    <a href="Destination.php"><i class="fas fa-map-marker-alt"></i> Destination</a>
+    <a href="Agents.php"><i class="fas fa-user-friends"></i> Agents</a>
+    <a href="Customer.php"><i class="fas fa-users"></i> Customers</a>
+    <a href="Package.php"><i class="fas fa-gift"></i> Package</a>
+    <a href="Itinerary.php"><i class="fas fa-calendar-alt"></i> Itinerary</a>
+    <a href="Payment.php"><i class="fas fa-credit-card"></i> Payments</a>
 </div>
 
 <div class="container">

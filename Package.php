@@ -17,108 +17,28 @@ $payments = $conn->query("SELECT paymentID, paymentType FROM Payment");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Package Dashboard</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            display: flex;
-        }
-        .sidebar {
-            width: 250px;
-            background: #333;
-            color: white;
-            padding: 20px;
-            height: 100vh;
-        }
-        .sidebar h2 {
-            color: #fff;
-        }
-        .sidebar a {
-            color: #fff;
-            text-decoration: none;
-            display: block;
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 5px;
-            transition: background 0.3s;
-        }
-        .sidebar a:hover {
-            background: #575757;
-        }
-        .container {
-            flex: 1;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
-        .form-container, .table-container {
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-        }
-        h2 {
-            margin-top: 0;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            padding: 15px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            background-color: #333;
-            color: white;
-        }
-        tr:hover {
-            background-color: #f1f1f1;
-        }
-        .button {
-            padding: 10px 15px;
-            background-color: #333;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            margin-top: 10px;
-        }
-        .button:hover {
-            background-color: #575757;
-        }
-        .input-field {
-            padding: 10px;
-            width: max-content;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            margin: 5px 0;
-        }
-    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="tvm.css">
+
 </head>
 <body>
 
 <div class="sidebar">
-    <h2>Dashboard</h2>
-    <a href="Dashboard.php">Dashboard</a>
-    <a href="Bookings.php">Bookings</a>
-    <a href="Destination.php">Destination</a>
-    <a href="Agents.php">Agents</a>
-    <a href="Customer.php">Customers</a>
-    <a href="Package.php">Package</a>
-    <a href="Itinerary.php">Itinerary</a>
-    <a href="Payments.php">Payments</a>
+    <h2>Travel maxxing</h2>
+    <a href="Dashboard.php"><i class="fas fa-tachometer-alt"></i> Dashboard</a>
+    <a href="Bookings.php"><i class="fas fa-book"></i> Bookings</a>
+    <a href="Destination.php"><i class="fas fa-map-marker-alt"></i> Destination</a>
+    <a href="Agents.php"><i class="fas fa-user-friends"></i> Agents</a>
+    <a href="Customer.php"><i class="fas fa-users"></i> Customers</a>
+    <a href="Package.php"><i class="fas fa-gift"></i> Package</a>
+    <a href="Itinerary.php"><i class="fas fa-calendar-alt"></i> Itinerary</a>
+    <a href="Payment.php"><i class="fas fa-credit-card"></i> Payments</a>
 </div>
-
 <div class="container">
     <div class="form-container">
-        <h2>Package Overview</h2>
+        <h2>Package</h2>
         <button class="button" onclick="addRow()">Add Package</button>
         <button class="button" onclick="findPackage()">Find ID</button>
     </div>

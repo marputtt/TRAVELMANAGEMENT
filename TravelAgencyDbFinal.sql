@@ -288,3 +288,14 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+-- show customer table sorted by name alphabetically
+SELECT * FROM Customer ORDER BY customerFName ASC, customerLName ASC;
+-- show agent names who have been born before 2000
+SELECT agentName FROM Agent WHERE agentDOB < '2000-01-01';
+SELECT Booking.bookingID, Booking.bookedDate, Customer.customerID, Customer.customerFName, 
+Customer.customerLName, Package.packageName, Package.packagePrice
+FROM Booking
+JOIN Customer ON Booking.customerID = Customer.customerID
+JOIN Package ON Booking.packageID = Package.packageID
+ORDER BY Booking.bookingID;
